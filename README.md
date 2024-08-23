@@ -30,4 +30,4 @@ cd FARM
 pip install -r requirements.txt
 pip install --editable .
 ```
-Set the correct fold number in the script!
+Make sure to set the correct fold number in the script!
