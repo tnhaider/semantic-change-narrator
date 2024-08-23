@@ -1,5 +1,5 @@
 ## Overview
-This repository contains data and code to support the paper currently under review:
+This repository contains data and code to support the paper:
 
 _"The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the Author-Narrator Distinction in Literary Criticism"_
 
