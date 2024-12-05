@@ -5,6 +5,8 @@ _"The Ongoing Birth of the Narrator: Empirical Evidence for the Emergence of the
 
 ## Folders
 - figures
+- guidelines
+  - contains the guidelines used during annotation
 - data
   - all (all labeled instances and gold)
   - vanilla (folds 1-10 for vanilla model)
